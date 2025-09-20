@@ -65,7 +65,7 @@ const projects = [
     preview: '/images/excellia.png ',
     category: 'web',
     githubUrl: 'https://github.com/username/excelliabource',
-    liveUrl: '/videos/excellia.mp4'
+    liveUrl: 'https://drive.google.com/file/d/16ITW_XZ79fnpIEZljCJzXPCjJLLNmcYN/view?usp=drive_link'
   },
   {
     title: 'DevOps - Automatisation de Pipeline CI/CD pour ExcelliaBource',
@@ -74,7 +74,7 @@ const projects = [
     preview: '/images/ci-cd.png',
     category: 'devops',
     githubUrl: 'https://github.com/username/cicd-pipeline',
-    liveUrl: '/videos/devops.mp4'
+    liveUrl: 'https://drive.google.com/file/d/1rLDhBpczEzPLJa4bD_btmi2OEnaA6GxN/view?usp=drive_link'
   },
   {
     title: 'Analyse des Salaires Data 2024',
@@ -83,7 +83,7 @@ const projects = [
     preview: '/images/clover.png',
     category: 'bi',
     githubUrl: 'https://github.com/username/salary-analysis',
-    liveUrl: '/videos/RAPPORT-PROJET-BI.pdf'
+    liveUrl: 'https://drive.google.com/file/d/1Bc0YKsPk1moY37DAazMm54sTm_yPxgOA/view?usp=drive_link'
   },
   {
     title: 'Machine Learning - Détection de Fraudes Bancaires',
@@ -101,7 +101,7 @@ const projects = [
   preview: '/images/streamlit.png',
   category: 'ml',
   githubUrl: 'https://github.com/username/fake-news-classification',
-  liveUrl: '/videos/FAKE_Last.mp4'
+  liveUrl: 'https://drive.google.com/file/d/16ITW_XZ79fnpIEZljCJzXPCjJLLNmcYN/view?usp=drive_link'
 }
 ,
   {
@@ -120,7 +120,7 @@ const projects = [
   preview: '/images/landing.png',
   category: 'devops',
   githubUrl: 'https://github.com/username/annonces-app',
-  liveUrl: '/videos/stage.mp4'
+  liveUrl: 'https://drive.google.com/file/d/1flKouj4OmwdTBSevxAW80vFS1fUhweG4/view?usp=drive_link'
 }
 
 ];
